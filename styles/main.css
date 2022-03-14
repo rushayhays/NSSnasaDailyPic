@@ -1,0 +1,52 @@
+
+body {
+    margin:0;
+    padding: 0;
+}
+
+header {
+    margin:0 0 100px 0;
+}
+
+h1 {
+    background-color: gainsboro;
+    padding: 10px 0;
+}
+
+h2 {
+    margin-bottom: 25px;
+}
+
+.interestingBox {
+    margin-bottom: 50px;
+}
+.pictureOfDayArea {
+    display: flex;
+    width:fit-content;
+    /* border: red 3px solid; */
+}
+
+figure {
+    border: black 5px solid;
+    background-color: black;
+    color: white;
+    width: fit-content;
+    margin: 0;
+    
+}
+
+
+image{
+    /* style="max-height:500px" */  
+
+}
+
+figcaption {
+    background-color: black;
+}
+
+.infoAboutPic {
+    background-color: #00B2CA;
+    padding: 0;
+    max-width:800px;
+}
